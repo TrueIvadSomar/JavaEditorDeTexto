@@ -1,3 +1,4 @@
 # JavaEditorDeTexto
-Projeto simples de uma calculadora em java feito uns meses atrás, mas nunca tinha subido aqui.
+Projeto simples de um editor de texto em Java feito alguns meses atrás, mas nunca tinha subido aqui.
+
 
